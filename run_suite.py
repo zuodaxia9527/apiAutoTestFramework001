@@ -21,7 +21,7 @@ report_path = os.path.dirname(os.path.abspath(__file__)) + "/report/ihrm.html"
 with open(report_path,"wb") as f:
     runner = HTMLTestRunner(f,verbosity=2,title="綜合测试",description="win10-chrome-80.0")
     runner.run(suite)
-
+print("hello word")
 
 
 
