@@ -1,0 +1,6 @@
+2020-03-05 02:50:24,329 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'ab2a7be1-80c5-47f3-a8b0-d38f4c4e60dd'}
+2020-03-05 02:50:24,332 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer ab2a7be1-80c5-47f3-a8b0-d38f4c4e60dd
+2020-03-05 02:50:24,446 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 02:50:24,551 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 02:50:24,649 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 02:50:25,240 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}

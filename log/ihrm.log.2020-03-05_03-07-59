@@ -1,0 +1,9 @@
+2020-03-05 03:07:58,384 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '12dab44d-267f-4010-b9c2-82c4d96af3f1'}
+2020-03-05 03:07:58,387 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer 12dab44d-267f-4010-b9c2-82c4d96af3f1
+2020-03-05 03:07:58,498 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235280000777015296'}}
+2020-03-05 03:07:58,498 INFO [root] [test_emp.py(test02_add_emp:40)] - 保存的员工id:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235280000777015296'}}
+2020-03-05 03:07:58,607 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235280000777015296', 'mobile': '18723232525', 'username': 'dnnb娜美111', 'password': 'd50064760fc93aed04cb745f71a98cea', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1066240656856453120', 'timeOfEntry': '2019-07-01T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1322131', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2019-11-30T00:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '开发部', 'roleIds': [], 'staffPhoto': None}}
+2020-03-05 03:07:58,703 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235280000777015296'}}
+2020-03-05 03:07:59,600 INFO [root] [test_emp.py(test04_put_emp:61)] - 要查询的语句为:select username from bs_user where id=1235280000777015296;
+2020-03-05 03:07:59,600 INFO [root] [test_emp.py(test04_put_emp:63)] - 查询结果为:('dnn罗宾',)
+2020-03-05 03:07:59,715 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}

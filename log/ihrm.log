@@ -1,0 +1,94 @@
+2020-03-05 03:31:09,072 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '8681cae8-dc71-4f2b-8422-ef3ce9073978'}
+2020-03-05 03:31:09,178 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,178 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,274 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,274 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,274 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,370 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,370 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,370 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,370 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,463 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,463 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,463 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,463 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,463 INFO [root] [test_emp_login.py(test001_login_is_success:20)] - 登陆成功的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,558 INFO [root] [test_emp_login.py(test006_less_mobile_parame:41)] - 缺少mobile的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,558 INFO [root] [test_emp_login.py(test006_less_mobile_parame:41)] - 缺少mobile的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,558 INFO [root] [test_emp_login.py(test006_less_mobile_parame:41)] - 缺少mobile的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,558 INFO [root] [test_emp_login.py(test006_less_mobile_parame:41)] - 缺少mobile的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,558 INFO [root] [test_emp_login.py(test006_less_mobile_parame:41)] - 缺少mobile的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,649 INFO [root] [test_emp_login.py(test007_less_password_parame:45)] - 缺少password的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,649 INFO [root] [test_emp_login.py(test007_less_password_parame:45)] - 缺少password的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,649 INFO [root] [test_emp_login.py(test007_less_password_parame:45)] - 缺少password的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,649 INFO [root] [test_emp_login.py(test007_less_password_parame:45)] - 缺少password的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,649 INFO [root] [test_emp_login.py(test007_less_password_parame:45)] - 缺少password的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,744 INFO [root] [test_emp_login.py(test008_many_parmae:51)] - 多参的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f155bb61-175a-4464-867e-5679277928e8'}
+2020-03-05 03:31:09,744 INFO [root] [test_emp_login.py(test008_many_parmae:51)] - 多参的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f155bb61-175a-4464-867e-5679277928e8'}
+2020-03-05 03:31:09,744 INFO [root] [test_emp_login.py(test008_many_parmae:51)] - 多参的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f155bb61-175a-4464-867e-5679277928e8'}
+2020-03-05 03:31:09,744 INFO [root] [test_emp_login.py(test008_many_parmae:51)] - 多参的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f155bb61-175a-4464-867e-5679277928e8'}
+2020-03-05 03:31:09,744 INFO [root] [test_emp_login.py(test008_many_parmae:51)] - 多参的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f155bb61-175a-4464-867e-5679277928e8'}
+2020-03-05 03:31:09,841 INFO [root] [test_emp_login.py(test009_erorr_parame:56)] - 错参的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,841 INFO [root] [test_emp_login.py(test009_erorr_parame:56)] - 错参的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,841 INFO [root] [test_emp_login.py(test009_erorr_parame:56)] - 错参的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,841 INFO [root] [test_emp_login.py(test009_erorr_parame:56)] - 错参的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,841 INFO [root] [test_emp_login.py(test009_erorr_parame:56)] - 错参的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-05 03:31:09,948 INFO [root] [test_emp_login.py(test010_none_paeame:60)] - 无参的结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 03:31:09,948 INFO [root] [test_emp_login.py(test010_none_paeame:60)] - 无参的结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 03:31:09,948 INFO [root] [test_emp_login.py(test010_none_paeame:60)] - 无参的结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 03:31:09,948 INFO [root] [test_emp_login.py(test010_none_paeame:60)] - 无参的结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 03:31:09,948 INFO [root] [test_emp_login.py(test010_none_paeame:60)] - 无参的结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-05 03:31:10,051 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '88c90df9-44c8-438d-af06-4cd2d5a76d21'}
+2020-03-05 03:31:10,051 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '88c90df9-44c8-438d-af06-4cd2d5a76d21'}
+2020-03-05 03:31:10,051 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '88c90df9-44c8-438d-af06-4cd2d5a76d21'}
+2020-03-05 03:31:10,051 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '88c90df9-44c8-438d-af06-4cd2d5a76d21'}
+2020-03-05 03:31:10,051 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '88c90df9-44c8-438d-af06-4cd2d5a76d21'}
+2020-03-05 03:31:10,051 INFO [root] [test_emp.py(test01_login_emp_case:22)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '88c90df9-44c8-438d-af06-4cd2d5a76d21'}
+2020-03-05 03:31:10,052 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer 88c90df9-44c8-438d-af06-4cd2d5a76d21
+2020-03-05 03:31:10,052 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer 88c90df9-44c8-438d-af06-4cd2d5a76d21
+2020-03-05 03:31:10,052 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer 88c90df9-44c8-438d-af06-4cd2d5a76d21
+2020-03-05 03:31:10,052 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer 88c90df9-44c8-438d-af06-4cd2d5a76d21
+2020-03-05 03:31:10,052 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer 88c90df9-44c8-438d-af06-4cd2d5a76d21
+2020-03-05 03:31:10,052 INFO [root] [test_emp.py(test01_login_emp_case:24)] - id:Bearer 88c90df9-44c8-438d-af06-4cd2d5a76d21
+2020-03-05 03:31:10,151 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,151 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,151 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,151 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,151 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,151 INFO [root] [test_emp.py(test02_add_emp:35)] - 添加员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,152 INFO [root] [test_emp.py(test02_add_emp:40)] - 保存的员工id:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,152 INFO [root] [test_emp.py(test02_add_emp:40)] - 保存的员工id:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,152 INFO [root] [test_emp.py(test02_add_emp:40)] - 保存的员工id:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,152 INFO [root] [test_emp.py(test02_add_emp:40)] - 保存的员工id:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,152 INFO [root] [test_emp.py(test02_add_emp:40)] - 保存的员工id:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,152 INFO [root] [test_emp.py(test02_add_emp:40)] - 保存的员工id:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,261 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240', 'mobile': '18723232525', 'username': 'dnnb娜美111', 'password': 'd50064760fc93aed04cb745f71a98cea', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1066240656856453120', 'timeOfEntry': '2019-07-01T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1322131', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2019-11-30T00:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '开发部', 'roleIds': [], 'staffPhoto': None}}
+2020-03-05 03:31:10,261 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240', 'mobile': '18723232525', 'username': 'dnnb娜美111', 'password': 'd50064760fc93aed04cb745f71a98cea', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1066240656856453120', 'timeOfEntry': '2019-07-01T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1322131', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2019-11-30T00:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '开发部', 'roleIds': [], 'staffPhoto': None}}
+2020-03-05 03:31:10,261 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240', 'mobile': '18723232525', 'username': 'dnnb娜美111', 'password': 'd50064760fc93aed04cb745f71a98cea', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1066240656856453120', 'timeOfEntry': '2019-07-01T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1322131', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2019-11-30T00:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '开发部', 'roleIds': [], 'staffPhoto': None}}
+2020-03-05 03:31:10,261 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240', 'mobile': '18723232525', 'username': 'dnnb娜美111', 'password': 'd50064760fc93aed04cb745f71a98cea', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1066240656856453120', 'timeOfEntry': '2019-07-01T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1322131', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2019-11-30T00:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '开发部', 'roleIds': [], 'staffPhoto': None}}
+2020-03-05 03:31:10,261 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240', 'mobile': '18723232525', 'username': 'dnnb娜美111', 'password': 'd50064760fc93aed04cb745f71a98cea', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1066240656856453120', 'timeOfEntry': '2019-07-01T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1322131', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2019-11-30T00:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '开发部', 'roleIds': [], 'staffPhoto': None}}
+2020-03-05 03:31:10,261 INFO [root] [test_emp.py(test03_index_emp:46)] - 查询员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240', 'mobile': '18723232525', 'username': 'dnnb娜美111', 'password': 'd50064760fc93aed04cb745f71a98cea', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1066240656856453120', 'timeOfEntry': '2019-07-01T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1322131', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2019-11-30T00:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '开发部', 'roleIds': [], 'staffPhoto': None}}
+2020-03-05 03:31:10,353 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,353 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,353 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,353 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,353 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,353 INFO [root] [test_emp.py(test04_put_emp:54)] - 修改员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1235285837826314240'}}
+2020-03-05 03:31:10,864 INFO [root] [test_emp.py(test04_put_emp:61)] - 要查询的语句为:select username from bs_user where id=1235285837826314240;
+2020-03-05 03:31:10,864 INFO [root] [test_emp.py(test04_put_emp:61)] - 要查询的语句为:select username from bs_user where id=1235285837826314240;
+2020-03-05 03:31:10,864 INFO [root] [test_emp.py(test04_put_emp:61)] - 要查询的语句为:select username from bs_user where id=1235285837826314240;
+2020-03-05 03:31:10,864 INFO [root] [test_emp.py(test04_put_emp:61)] - 要查询的语句为:select username from bs_user where id=1235285837826314240;
+2020-03-05 03:31:10,864 INFO [root] [test_emp.py(test04_put_emp:61)] - 要查询的语句为:select username from bs_user where id=1235285837826314240;
+2020-03-05 03:31:10,864 INFO [root] [test_emp.py(test04_put_emp:61)] - 要查询的语句为:select username from bs_user where id=1235285837826314240;
+2020-03-05 03:31:10,865 INFO [root] [test_emp.py(test04_put_emp:63)] - 查询结果为:('dnn罗宾',)
+2020-03-05 03:31:10,865 INFO [root] [test_emp.py(test04_put_emp:63)] - 查询结果为:('dnn罗宾',)
+2020-03-05 03:31:10,865 INFO [root] [test_emp.py(test04_put_emp:63)] - 查询结果为:('dnn罗宾',)
+2020-03-05 03:31:10,865 INFO [root] [test_emp.py(test04_put_emp:63)] - 查询结果为:('dnn罗宾',)
+2020-03-05 03:31:10,865 INFO [root] [test_emp.py(test04_put_emp:63)] - 查询结果为:('dnn罗宾',)
+2020-03-05 03:31:10,865 INFO [root] [test_emp.py(test04_put_emp:63)] - 查询结果为:('dnn罗宾',)
+2020-03-05 03:31:10,979 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-03-05 03:31:10,979 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-03-05 03:31:10,979 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-03-05 03:31:10,979 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-03-05 03:31:10,979 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-03-05 03:31:10,979 INFO [root] [test_emp.py(test05_delete_emp:73)] - 删除员工结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
